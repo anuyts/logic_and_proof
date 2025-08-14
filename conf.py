@@ -172,7 +172,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'logic_and_proof.tex', u'Logic and Proof',
-     u'Jeremy Avigad, Joseph Hua, Robert Y. Lewis, and Floris van Doorn', 'manual'),
+     u'Jeremy Avigad, Joseph Hua, Robert Y. Lewis,\\\\and Floris van Doorn', 'manual'),
 ]
 
 
